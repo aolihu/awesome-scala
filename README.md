@@ -1,0 +1,2 @@
+# awesome-scala
+awesome-scala
